@@ -55,7 +55,7 @@ x-api-version: 1.1.0
 
 Hello Koa.js!
 
-# Caret Ranges
+# Caret Ranges version
 $ curl -i -H "Accept-Version: ^1.0" http://localhost:3000/
 HTTP/1.1 200 OK
 x-api-version: 1.1.0
