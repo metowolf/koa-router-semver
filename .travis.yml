@@ -1,9 +1,8 @@
 language: node_js
 node_js:
-  - 8
-  - 10
-  - 12
+  - node
   - 14
-  - 'stable'
+  - 12
+  - 10
 script:
   - npm run coverage
